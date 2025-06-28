@@ -1,3 +1,7 @@
+# data
+df_transaction.pa
+train.pa
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
